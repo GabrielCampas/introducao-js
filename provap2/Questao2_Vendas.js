@@ -9,7 +9,6 @@ let vendas = [
 
 let nomesRegioes = ["Norte", "Sul", "Leste"];
 
-
 function gerarRelatorio(matrizVendas) {
     console.log("\n--- RELATÓRIO DE DESEMPENHO ---");
     for (let i = 0; i < 3; i++) {

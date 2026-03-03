@@ -33,6 +33,7 @@ console.log("\n--- FUNCIONÁRIOS QUE RECEBERÃO BÔNUS ---");
 // Processamento
 for (let i = 0; i < 3; i++) {
     let soma = 0;
+    
     // Percorre as colunas da linha atual
     for (let j = 0; j < 3; j++) {
         soma += notas[i][j];

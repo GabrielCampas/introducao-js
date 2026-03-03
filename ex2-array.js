@@ -1,4 +1,4 @@
-// exercicio de numeros usando arrays. ---CORRIGIDO E CERTO!!!---
+// exercicio de numeros usando arrays. 
 
 const leia = require('readline-sync')
 

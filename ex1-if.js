@@ -1,4 +1,4 @@
-// exercicio de desconto usando if. ---CORRIGIDO E CERTO!!!---
+// exercicio de desconto usando if.
 const leia = require('readline-sync')
 
 console.log("=== FINALIZE SUA COMPRA ===");

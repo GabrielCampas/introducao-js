@@ -1,4 +1,5 @@
-const leia = require('readline-sync')
+const leia = require('readline-sync');
+
 let maior_num = null
 let menor_num = null
 num =[]
@@ -16,5 +17,6 @@ for (let i = 0; i<10;i++){
         }
     }
 }
+
 console.log(`O maior valor digitado foi ${maior_num}`)
 console.log(`O menor valor digitado foi ${menor_num}`)
