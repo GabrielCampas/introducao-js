@@ -1,5 +1,5 @@
 // exercicio de desconto usando if.
-const leia = require('readline-sync')
+const leia = require('readline-sync');
 
 console.log("=== FINALIZE SUA COMPRA ===");
 let nomeitem = leia.question(`Digite o nome do item a ser comprado: `);

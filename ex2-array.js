@@ -1,6 +1,6 @@
 // exercicio de numeros usando arrays. 
 
-const leia = require('readline-sync')
+const leia = require('readline-sync');
 
 // declarando os arrays
 numeros = [];
